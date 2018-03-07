@@ -4,6 +4,13 @@
 # In[34]:
 
 
+"""
+2018_03_07
+
+version_0.0.1
+
+"""
+
 # import package
 
 # -----------manipulate data package-----------
